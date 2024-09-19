@@ -1,0 +1,74 @@
+{
+    "trees": [
+        {
+            "name": "Pino",
+            "scientific_name": "Pinus",
+            "family": "Pinaceae",
+            "class": "Pinopsida",
+            "order": "Pinales"
+        },
+        {
+            "name": "Roble",
+            "scientific_name": "Quercus",
+            "family": "Fagaceae",
+            "class": "Magnoliopsida",
+            "order": "Fagales"
+        },
+        {
+            "name": "Abeto",
+            "scientific_name": "Abies",
+            "family": "Pinaceae",
+            "class": "Pinopsida",
+            "order": "Pinales"
+        },
+        {
+            "name": "Cedro",
+            "scientific_name": "Cedrus",
+            "family": "Pinaceae",
+            "class": "Pinopsida",
+            "order": "Pinales"
+        },
+        {
+            "name": "Cipres",
+            "scientific_name": "Cupressus",
+            "family": "Cupressaceae",
+            "class": "Pinopsida",
+            "order": "Pinales"
+        },
+        {
+            "name": "Sauce",
+            "scientific_name": "Salix",
+            "family": "Salicaceae",
+            "class": "Magnoliopsida",
+            "order": "Malpighiales"
+        },
+        {
+            "name": "Haya",
+            "scientific_name": "Fagus",
+            "family": "Fagaceae",
+            "class": "Magnoliopsida",
+            "order": "Fagales"
+        },
+        {
+            "name": "Abedul",
+            "scientific_name": "Betula",
+            "family": "Betulaceae",
+            "class": "Magnoliopsida",
+            "order": "Fagales"
+        },
+        {
+            "name": "Olmo",
+            "scientific_name": "Ulmus",
+            "family": "Ulmaceae",
+            "class": "Magnoliopsida",
+            "order": "Rosales"
+        },
+        {
+            "name": "Arce",
+            "scientific_name": "Acer",
+            "family": "Sapindaceae",
+            "class": "Magnoliopsida",
+            "order": "Sapindales"
+        }
+    ]
+}
